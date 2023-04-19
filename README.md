@@ -45,7 +45,7 @@ Clone this repository to your desired folder:
 
 ### Usage
 
-To run the project, open index.html with your preferred web browser or open it with a live server from your code editor, I recommend using [Live Server by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+To run the project, open index.html with your preferred web browser or open it with a live server from your code editor.
 
 ## 👥 Author <a name="author"></a>
 
