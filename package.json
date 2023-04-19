@@ -1,5 +1,5 @@
 {
-  "name": "mobile-menu-trial",
+  "name": "cr-trials-mobile-menu",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wickathou/mobile-menu-trial.git"
+    "url": "git+https://github.com/jmonto55/CR-trials-mobile-menu.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wickathou/mobile-menu-trial/issues"
+    "url": "https://github.com/jmonto55/CR-trials-mobile-menu/issues"
   },
-  "homepage": "https://github.com/wickathou/mobile-menu-trial#readme",
+  "homepage": "https://github.com/jmonto55/CR-trials-mobile-menu#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
