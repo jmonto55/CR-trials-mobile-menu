@@ -432,7 +432,7 @@ textarea {
   transform: translate(-50%, -50%);
   z-index: 100;
   background-color: #3c3a39;
-  width: 100vw;
+  width: 375px;
   height: 100vh;
 }
 
