@@ -417,7 +417,7 @@ textarea {
     brightness(92%) contrast(82%);
 }
 
-#mobile-menu {
+#mobile-nav {
   position: fixed;
   top: 50%;
   left: 50%;
@@ -428,21 +428,21 @@ textarea {
   height: 100vh;
 }
 
-.not-active {
+.invisible {
   display: none;
 }
 
-#mobile-menu a {
+#mobile-nav a {
   color: #fff5e1;
 }
 
-#mobile-menu li {
+#mobile-nav li {
   border-bottom: #fff5e1 solid 1px;
   margin-top: 5%;
   text-align: start;
 }
 
-#mobile-menu div {
+#mobile-nav div {
   display: flex;
   flex-direction: column;
   margin: 10% auto;
@@ -450,7 +450,7 @@ textarea {
   height: 30%;
 }
 
-#mobile-menu ul {
+#mobile-nav ul {
   display: flex;
   flex-direction: column;
 }
@@ -460,7 +460,7 @@ textarea {
 }
 
 @media all and (min-width: 720px) {
-  #mobile-menu {
+  #mobile-nav {
     display: none;
   }
 
