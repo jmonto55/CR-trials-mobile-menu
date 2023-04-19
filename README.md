@@ -15,9 +15,9 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 Portfolio Micro <a name="about-project"></a>
+# 📖 Mobile Menu <a name="about-project"></a>
 
-**Portfolio Micro** A minimaly designed portfolio, created based on the structure of the portfolio templates collected by Microverse. This website was created taking as reference the template 1 from [this figma file](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1)
+**Mobile Menu** is a feature that makes my personal Portfolio project's menu fully responisve.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -25,9 +25,7 @@
 
 HTML | CSS | GIT
 
-## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://wickathou.github.io/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -43,7 +41,7 @@ GIT | A code editor | A web browser
 
 Clone this repository to your desired folder:
 
-  git clone git@github.com:wickathou/portfolio.git
+  git clone git@github.com/CR-trials-mobile-menu.git
 
 ### Usage
 
@@ -51,16 +49,14 @@ To run the project, open index.html with your preferred web browser or open it w
 
 ## 👥 Author <a name="author"></a>
 
-👤 **Javier Hernandez**
+👤 **Jose Montoya Gomez**
 
-- GitHub: [@wickathou](https://github.com/wickathou)
-- LinkedIn: [@javierjhm](https://linkedin.com/in/javierjhm)
-- Instagram: [@digijavi](https://www.instagram.com/digijavi/)
+- GitHub: [@jmonto55](https://github.com/jmonto55)
+- LinkedIn: [@jmontodev](https://linkedin.com/in/jmontodev)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Browser data storage]**
-- [ ] **[New live view]**
+- **[Cool styles]**
 ## 🤝 Contributing <a name="contributing"></a>
 
 Feel free to check the [issues page](https://github.com/wickathou/portfolio/issues).
