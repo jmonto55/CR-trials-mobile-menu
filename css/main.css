@@ -425,7 +425,45 @@ textarea {
   align-self: flex-end;
 }
 
+#mobile-menu {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 100;
+  background-color: #3c3a39;
+  width: 100vw;
+  height: 100vh;
+}
+
+#mobile-menu a {
+  color: #fff5e1;
+}
+
+#mobile-menu li {
+  border-bottom: #fff5e1 solid 1px;
+  margin-top: 5%;
+  text-align: start;
+}
+
+#mobile-menu div {
+  display: flex;
+  flex-direction: column;
+  margin: 10% auto;
+  width: 80%;
+  height: 30%;
+}
+
+#mobile-menu ul {
+  display: flex;
+  flex-direction: column;
+}
+
 @media all and (min-width: 720px) {
+  #mobile-menu {
+    display: none;
+  }
+
   .top-social {
     flex-direction: column;
     position: absolute;
