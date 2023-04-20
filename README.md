@@ -74,14 +74,14 @@ Install this project with:
 ```
 ### Usage
 
-To run the project, open index.html with your preferred web browser or open it with a live server from your code editor, I recommend using [Live Server by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+To run the project, open index.html with your preferred web browser or open it with a live server from your code editor.
 
 ### Run tests
 
 To run tests, run the following command:
 
 ```sh
-  npm test
+ Tests will be available in the future
 ```
 
 
