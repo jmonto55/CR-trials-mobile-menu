@@ -417,7 +417,7 @@ textarea {
     brightness(92%) contrast(82%);
 }
 
-.not-active {
+.invisible {
   display: none;
 }
 
@@ -425,7 +425,45 @@ textarea {
   align-self: flex-end;
 }
 
+#mobile-nav {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 100;
+  background-color: #3c3a39;
+  width: 375px;
+  height: 100vh;
+}
+
+#mobile-nav a {
+  color: #fff5e1;
+}
+
+#mobile-nav li {
+  border-bottom: #fff5e1 solid 1px;
+  margin-top: 5%;
+  text-align: start;
+}
+
+#mobile-nav div {
+  display: flex;
+  flex-direction: column;
+  margin: 10% auto;
+  width: 80%;
+  height: 30%;
+}
+
+#mobile-nav ul {
+  display: flex;
+  flex-direction: column;
+}
+
 @media all and (min-width: 720px) {
+  #mobile-nav {
+    display: none;
+  }
+
   .top-social {
     flex-direction: column;
     position: absolute;
